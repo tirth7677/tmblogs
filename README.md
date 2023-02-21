@@ -2,11 +2,15 @@
 
 ________________________________________________________________________________________________________________________________________________________________
 FOLLOW THIS STEPS TO RUN THE WEBSITE.
+<br>
 STEP 1:- CLONE THIS FOLDER.
+<br>
 STEP 2:- RUN Data/db.json file follow step 3.
+<br>
 STEP 3:- Write this same command line in terminal "npx json-server --watch data/db.json --port 8000".
+<br>
 STEP 4:- npm start.
-
+<br>
 => MAKE SURE THAT JSON FILE IS RUN IN ONE TERMINAL AND NPM START RUN IN ANOTHER TERMINAL .
 _________________________________________________________________________________________________________________________________________________________________
 
