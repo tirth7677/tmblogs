@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+________________________________________________________________________________________________________________________________________________________________
+FOLLOW THIS STEPS TO RUN THE WEBSITE
+STEP 1:- CLONE THIS FOLDER
+STEP 2:- RUN Data/db.json file follow step 3
+STEP 3:- Write this same command line in terminal "npx json-server --watch data/db.json --port 8000"
+STEP 4:- npm start
+
+=> MAKE SURE THAT JSON FILE IS RUN IN ONE TERMINAL AND NPM START RUN IN ANOTHER TERMINAL 
+_________________________________________________________________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
