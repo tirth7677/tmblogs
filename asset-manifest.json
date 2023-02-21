@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tmblogs/static/css/main.f1302bb2.css",
+    "main.js": "/tmblogs/static/js/main.de6cc3ce.js",
+    "index.html": "/tmblogs/index.html",
+    "main.f1302bb2.css.map": "/tmblogs/static/css/main.f1302bb2.css.map",
+    "main.de6cc3ce.js.map": "/tmblogs/static/js/main.de6cc3ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1302bb2.css",
+    "static/js/main.de6cc3ce.js"
+  ]
+}
