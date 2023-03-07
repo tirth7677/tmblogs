@@ -12,6 +12,9 @@ STEP 3:- Write this same command line in terminal "npx json-server --watch data/
 STEP 4:- npm start.
 <br>
 => MAKE SURE THAT JSON FILE IS RUN IN ONE TERMINAL AND NPM START RUN IN ANOTHER TERMINAL .
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/65870526/223370166-9a63dd2d-ca98-4396-b1b1-d08ab1375188.png">
+
 _________________________________________________________________________________________________________________________________________________________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -82,10 +85,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-
-
-
-<img width="425" alt="image" src="https://user-images.githubusercontent.com/65870526/223369979-021c913a-7201-4e0d-9937-9c701f60df78.png">
-
